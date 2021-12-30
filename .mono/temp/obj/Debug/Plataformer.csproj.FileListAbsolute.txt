@@ -1,0 +1,8 @@
+/home/shade/Game_Dev/Workspace/Plataformer/.mono/temp/obj/Debug/Plataformer.csprojAssemblyReference.cache
+/home/shade/Game_Dev/Workspace/Plataformer/.mono/temp/obj/Debug/Plataformer.AssemblyInfoInputs.cache
+/home/shade/Game_Dev/Workspace/Plataformer/.mono/temp/obj/Debug/Plataformer.AssemblyInfo.cs
+/home/shade/Game_Dev/Workspace/Plataformer/.mono/temp/obj/Debug/Plataformer.csproj.CoreCompileInputs.cache
+/home/shade/Game_Dev/Workspace/Plataformer/.mono/temp/bin/Debug/Plataformer.dll
+/home/shade/Game_Dev/Workspace/Plataformer/.mono/temp/bin/Debug/Plataformer.pdb
+/home/shade/Game_Dev/Workspace/Plataformer/.mono/temp/obj/Debug/Plataformer.dll
+/home/shade/Game_Dev/Workspace/Plataformer/.mono/temp/obj/Debug/Plataformer.pdb
