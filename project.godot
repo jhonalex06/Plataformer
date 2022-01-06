@@ -11,7 +11,7 @@ config_version=4
 [application]
 
 config/name="Plataformer"
-run/main_scene="res://src/Levels/LevelTemplate.tscn"
+run/main_scene="res://src/Screens/MainScreen.tscn"
 config/icon="res://icon.png"
 
 [input]
