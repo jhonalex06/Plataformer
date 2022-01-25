@@ -8,19 +8,19 @@
     ".NETFramework,Version=v4.7.2": []
   },
   "packageFolders": {
-    "/home/jhongalindo/.nuget/packages/": {}
+    "/home/shade/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jhongalindo/gamedev/Workspace/Plataformer/Plataformer.csproj",
+      "projectUniqueName": "/home/shade/gamedev/Plataformer/Plataformer.csproj",
       "projectName": "Plataformer",
-      "projectPath": "/home/jhongalindo/gamedev/Workspace/Plataformer/Plataformer.csproj",
-      "packagesPath": "/home/jhongalindo/.nuget/packages/",
-      "outputPath": "/home/jhongalindo/gamedev/Workspace/Plataformer/.mono/temp/obj/",
+      "projectPath": "/home/shade/gamedev/Plataformer/Plataformer.csproj",
+      "packagesPath": "/home/shade/.nuget/packages/",
+      "outputPath": "/home/shade/gamedev/Plataformer/.mono/temp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/jhongalindo/.config/NuGet/NuGet.Config"
+        "/home/shade/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net472"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5LR556H4hHfRhlCF+AfZZWEwamRkxDCiXTgQSmD9y2SIgupEAHNgf/e1Y2xX3f6vMeByiY6VxAFVJ8AMJg2Oxw==",
+  "dgSpecHash": "9OvWVeP5RDhR5dpG12s2koYHNJWszZo3M948Jcyp8icwrwTEIxlUydJ37cRU2rGmap0Dw0XJRDL3lxvNYxNZ3w==",
   "success": true,
-  "projectFilePath": "/home/jhongalindo/gamedev/Workspace/Plataformer/Plataformer.csproj",
+  "projectFilePath": "/home/shade/gamedev/Plataformer/Plataformer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
