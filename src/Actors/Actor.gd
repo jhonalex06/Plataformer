@@ -3,8 +3,8 @@ class_name Actor
 
 
 # Declare member variables here. Examples:
-# var a = 2
-# var b = "text"
+const FLOOR_NORMAL: = Vector2.UP
+
 export var speed: = Vector2(300.0, 1000.0)
 export var gravity: = 3000.0 
 var velocity: = Vector2.ZERO
@@ -13,8 +13,6 @@ var velocity: = Vector2.ZERO
 func _ready():
 	pass # Replace with function body.
 
-func _physics_process(delta):
-	velocity.y += gravity * delta
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 #func _process(delta):
